@@ -4,7 +4,7 @@ Lightweight and fast file utility written in C using GTK. No bloat, just simple 
 
 # Project Status
 - [x] Linux support
-- [ ] Windows support (in progress / maybe later)
+- [ ] Windows support (Win32 (in progress / maybe later))
 - [x] View file size
 - [ ] Basic stat info
 - [ ] "Touch" button (update file timestamps)
