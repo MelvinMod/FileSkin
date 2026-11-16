@@ -1,5 +1,5 @@
 # FileSkin
-Edit info, data ,metadata and other info of file in 1 app!
+Edit info, data, metadata and other info of file in 1 app!
 Lightweight and fast file utility written in C using GTK. No bloat, just simple file manipulation.
 
 # Project Status
