@@ -7,7 +7,7 @@ Lightweight and fast file utility written in C using GTK. No bloat, just simple 
 - [ ] Windows support (Win32 (in progress / maybe later))
 - [x] View file size
 - [ ] Basic stat info
-- [ ] "Touch" button (update file timestamps)
+- [X] "Touch" button (to do something)
 - [ ] Edit file metadata & permissions (chmod)
 - [ ] Batch file renaming & numbering (regex)
 - [ ] Custom themes / minimal UI tweaks
